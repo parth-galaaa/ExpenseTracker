@@ -1,4 +1,4 @@
-# ExpenseTracker
+# ExpenseTracker - An Android App
 
 ## Group Members
 
