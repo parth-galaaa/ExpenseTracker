@@ -1,4 +1,4 @@
-# ExpenseTracker - An Android App
+# ExpenseTracker - Your Personal Budgeting App
 
 ## Group Members
 
